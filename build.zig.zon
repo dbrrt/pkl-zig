@@ -1,0 +1,13 @@
+.{
+    .name = .pkl,
+    .fingerprint = 0x69bd2e5d974f03a3,
+    .version = "0.1.0",
+    .minimum_zig_version = "0.16.0",
+    .paths = .{
+        "build.zig",
+        "build.zig.zon",
+        "src",
+        "README.md",
+        "LICENSE",
+    },
+}
